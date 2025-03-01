@@ -1,0 +1,15 @@
+Component   : 10
+PCB Library : Trofazni_invertor_PcbLib.PcbLib
+Date        : 13.3.2024.
+Time        : 22:26:23
+
+
+
+Dimension : 30.658 x 14.58 mm
+
+ Layer(s)              Pads(s)  Tracks(s)  Fill(s)  Arc(s)  Text(s)
+--------------------------------------------------------------------
+ Multi Layer                 3          0        0       0        0
+ Top Overlay                 0          4        0       2        0
+--------------------------------------------------------------------
+ Total                       3          4        0       2        0
